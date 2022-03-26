@@ -1,6 +1,4 @@
-sudo cp /etc/apt/sources.list  /etc/apt/sources.list &&
-Attach files by dragging & dropping, selecting or pasting them.
-
+sudo cp /etc/apt/sources.list  /etc/apt/sources.list.bak &&
 
 sudo echo "deb http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse  \n\
 deb-src http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse  \n\
